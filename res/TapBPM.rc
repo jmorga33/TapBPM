@@ -1,0 +1,5 @@
+#include <winuser.h>
+#include "resource.h"
+
+IDI_APP_ICON ICON "TapBPM.ico"
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "app.manifest"
